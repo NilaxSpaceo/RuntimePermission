@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Runtime Permission</string>
+
+    <string name="msg_dialog_no_storage_permission">Storage permission allows an application to access your device storage. \nWithout storage permission, we will not able to get gallery images.</string>
+    <string name="ok">Ok</string>
+
+</resources>
